@@ -1,0 +1,1 @@
+nircmd.exe setcursor 1300 650
